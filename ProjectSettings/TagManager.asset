@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Character
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Battle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: map_walk
+    uniqueID: 1489255947
+    locked: 0
+  - name: map_upper_walk
+    uniqueID: 3198278441
+    locked: 0
+  - name: map_collision
+    uniqueID: 1019695151
+    locked: 0
+  - name: map_ornament
+    uniqueID: 2091505763
+    locked: 0
+  - name: map_char
+    uniqueID: 52232977
+    locked: 0
+  - name: Event
+    uniqueID: 4195244461
+    locked: 0
